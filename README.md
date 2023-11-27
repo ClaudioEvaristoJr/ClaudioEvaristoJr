@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo JavaScript, HTML e CSS;
 - 👯 Estou procurando colaborar em projetos que me ajudem a me desenvolver na área de programação
-- 📫 Como entrar em contato comigo pelo meu [Instagram](https://www.instagram.com/claudio_ejr/)
+- 📫 Entrar em contato comigo pelo meu [Instagram](https://www.instagram.com/claudio_ejr/)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40" />
 
 ## Contatos:
