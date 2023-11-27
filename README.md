@@ -13,4 +13,3 @@
 <a href="https://www.instagram.com/claudio_ejr/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/ClaudioEvaristoJr/ClaudioEvaristoJr/blob/output/github-contribution-grid-snake.svg)
